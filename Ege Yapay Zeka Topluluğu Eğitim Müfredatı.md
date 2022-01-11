@@ -1,6 +1,6 @@
 # Ege Yapay Zeka Topluluğu Eğitim Müfredatı
 ## Müfredat seviyesi: Başlangıç
-### Müfredat sürümü: v1.0
+
 Bu müfredatımız;
 - Okumalar, 
 - Makaleler,
@@ -9,9 +9,9 @@ Bu müfredatımız;
 - Kitaplar,
 - ...
 
-ve yapay zekanın terminolojisini anlayabilmemiz için gereken en temel konuları içeriyor olacak. Müfredatı takip edebilmek için B1-B2 düzeyinde İngilizce bilgisi önerilir, fakat elimizden geldikçe Türkçe kaynaklar da paylaşıyor olacağız.
+ve yapay zekanın temellerini anlayabilmemiz için gereken en genel konuları içeriyor olacak. Müfredatı takip edebilmek için B1-B2 düzeyinde İngilizce bilgisi önerilir, fakat elimizden geldikçe Türkçe kaynaklar da paylaşıyor olacağız.
 
-Müfredatta takip edilmesini önerdiğimiz sıra baştan sona doğru gitmek olsa da dilediğiniz, merak ettiğiniz konulara atlayıp tüketmenizde de bir sakınca bulunmuyor. Tüm içerikler başlangıç seviyesi için ayarlanmış olduğu için terminolojiye biraz hakim olmanızın yeteceğini düşünüyoruz.
+Müfredatta takip edilmesini önerdiğimiz sıra baştan sona doğru gitmek olsa da dilediğiniz, merak ettiğiniz konulara atlayıp tüketmenizde de bir sakınca bulunmuyor. Tüm içerikler başlangıç seviyesi için ayarlanmış olduğu için terimlere biraz hakim olmanızın yeteceğini düşünüyoruz. Sorularınız olduğu noktada Discord Sunucumuzdaki müfredat hakkında sorular kanalına yazmanız yeterli olacaktır.
 
 # Teorik Müfredat
 
@@ -72,25 +72,66 @@ Teorik çalışmamıza başlayabilmemiz için temel kavramların ne anlama geldi
 ## Yapay Zeka'nın Tarihine Giriş
 Her konuda olduğu gibi öğrenmeye başlarken tarihi hakkında bilgi sahibi olmak da gelişim sürecini daha parlak kılacak, günümüzdeki karmaşık teknolojilerin, kara kutuların ışıklandırılmasında yardımcı olacaktır. Aynı zamanda geçmişten günümüze değişimler bu çalışma sürecimizde motivasyonumuzu artıracak ve bize yeni bilgiler katacaktır. Bu yüzden başlangıç tarihi, Yapay Zeka fikri kimden çıktı tarzından bilgileri de paylaşmayı istedik.
 
-<img src="/Resources/Alan_Turing.jpg" alt="Alan Turing" width="300" height="408">
+<img src="/Resources/Alan_Turing.jpg" alt="Alan M. Turing" width="300" height="408">
 
-### [Computing Machinery and Intelligence
+### [Computing Machinery and Intelligence | Alan M. Turing | 1950](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
+  **Dil:** İngilizce
 
-### Makaleler
-- https://www.csee.umbc.edu/courses/471/papers/turing.pdf
-- https://www.mbkaya.com/hukuk/cahit-arf-makine-dusunebilir-mi-orjinal.pdf
-- https://dergipark.org.tr/en/download/article-file/179113
+  **Özet:** Yukarıda fotoğrafını gördüğümüz kişi, Enigma şifreleme makinesini çözecek bilgisayarı inşa edenlerden birisi, Bilgisayar Bilimlerinin babası, Turing makineleriyle günümüzü değiştiren fikir üstadı, 1950 senesinde Makineler Düşünebilir mi? sorusunu soran bilim insanı, Alan Turing. Kendisinin Enigma hikayesini belki [bu filmden](https://www.imdb.com/title/tt2084970/) hatırlarsınız, izlemediyseniz lütfen bunu okumayı burada durdurun, izledikten sonra devam edin.
 
-### Videolar
-- https://www.youtube.com/watch?v=kieF8V-vJfo
-- https://www.youtube.com/watch?v=HNVA4nLzkpQ
-- https://www.youtube.com/watch?v=d4kQVyAEsqA
-- https://www.youtube.com/watch?v=ad79nYk2keg
+  Alan Turing'in hayatının ayrıca bir müfredatta detaylıca verilmesi ve paylaşılmasını isteriz, fakat şu an bu makalesiyle tarihe giriş yapıyoruz. 5 kısımdan oluşan bu makalede Makineler Düşünebilir mi? sorusunu 5 başlık altında inceliyor ve konuyu tartışmaya açıyor. Yapay Zeka ve Bilgisayar Bilimleriyle ilgilenen herkesin okuması gerektiğini düşündüğümüz, oldukça ilgi çekici bir makale.
 
-### Dersler ve Kurslar
+### [Dartmouth Konferansı](https://tr.wikipedia.org/wiki/Dartmouth_Konferans%C4%B1)
+  **Dil:** Türkçe, İngilizce
+  
+  **Özet:** Hocalarımız zaman zaman kaynakçaları wikipedia olarak göstermemize kızsa da, notumuzu kırıyor olsa da bu konuda oldukça güzel bir başlangıç ve devamında kaynakçası incelenerek dallandırılan bir araştırma sunuyor. Dartmouth Konferansı, John McCarthy gibi bir Yapay Zeka fikir babasının da yer aldığı bir konferans. Bu alanın kurucu olayı olarak kabul edilen bu konferansın incelemeye, öğrenmeye değer olduğunu düşünüyoruz.
+  
+  **Ek Bağlantı:** [Konferans Yazısı](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
 
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
-- https://www.coursera.org/learn/ai-for-everyone
-- https://www.coursera.org/specializations/ai-foundations-for-everyone
-- https://www.youtube.com/watch?v=16Dir4QqCUg
+### [Makineler Düşünebilir mi? | Ord. Prof. Dr. Cahit ARF | Atatürk Üniversitesi | 1958 - 1959](https://www.mbkaya.com/hukuk/cahit-arf-makine-dusunebilir-mi-orjinal.pdf)
+  **Dil:** Türkçe
+  
+  **Özet:** İçeriklerimizde biraz da yerli ve milli olmak gerekli. Özellikle 1958 senesinde bizim de bu konuda sorular sorup araştırmalar yapmış olmamız, Cahit Arf gibi değerli bir akademisyen ve bilim insanımızın bu konuda bir yazısının olması gerçekten gurur verici. Motivasyon kaynağı da olacağını düşündüğümüz için Turing'in makalesinden hemen sonra bu yazının da okunmasını öneriyoruz.
 
+### [History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+  **Dil:** İngilizce
+  
+  **Özet:** Az önce wikipediayı kaynakça gösterme tabumuzu yıktığımıza göre(en azından öyle düşünüyoruz) şimdi de tarihin devamını öğrenebilmemiz için History of Artificial Intelligence wikipedia sayfasını öneriyoruz. Bu sayfanın detaylı, kaynakçaları kaliteli, güzel atıflar yapılmış ve başlıkların ilk cümlelerini bile okusak konu hakkında iyi bir fikrimiz olmasını sağlayacak bir içerik olduğunu düşünüyoruz. Bilgilerimizi daha da ilerletmek için göz atmanızı öneriyoruz.
+  
+  **Ek Öneri:** Kaynakçaları da karıştırmayı, kolaçan etmeyi unutmayın.
+
+## Yapay Zeka'da İlginç Gelişmeler, Popüler Kültür ve Ek İçerikler
+Terimleri anlamak için ve genel hatları belirginleştirmek için önerilerimizi yapmış, tarihine de değinmiş olduğumuza göre sıra popüler kültürde. Buradaki bazı içerikleri çoktan görmüş olduğunuzu tahmin ediyor olsak da burada bulunmasını istiyoruz. Aralarında bildiğiniz içerikler de mevcut olacak, keyifli tüketmeler.
+
+### Deep Blue [YouTube](https://www.youtube.com/watch?v=NJarxpYyoFI) <!> [Wikipedia](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer))
+
+### AlphaGo [YouTube](https://www.youtube.com/watch?v=8dMFJpEGNLQ&t=7s) <!> [Wikipedia](https://en.wikipedia.org/wiki/AlphaGo)
+
+### Turing Testi [YouTube](https://www.youtube.com/watch?v=sXx-PpEBR7k) <!> [Wikipedia](https://tr.wikipedia.org/wiki/Turing_testi)
+
+### Çince Odası Argümanı [YouTube](https://www.youtube.com/watch?v=TryOC83PH1g) <!> [Wikipedia](https://tr.wikipedia.org/wiki/%C3%87ince_odas%C4%B1)
+
+### Otonom Arabalar [YouTube](https://www.youtube.com/watch?v=Y8jYyJJIN9M) <!> [Wikipedia](https://tr.wikipedia.org/wiki/Otonom_araba)
+
+### Google Asistanı [YouTube](https://www.youtube.com/watch?v=FPfQMVf4vwQ) <!> [Wikipedia](https://tr.wikipedia.org/wiki/Google_Asistan)
+
+### StyleGAN [Websitesi](https://thispersondoesnotexist.com/) <!> [YouTube](https://www.youtube.com/watch?v=N4m_xt4vFwY) <!> [Wikipedia](https://en.wikipedia.org/wiki/StyleGAN)
+
+### [Stanford Seminar: Google's Multilingual Neural Machine Translation System](https://www.youtube.com/watch?v=nR74lBO5M3s)
+
+### [Multi-Agent Hide and Seek](https://www.youtube.com/watch?v=kopoLzvh5jY)
+
+### [Yapay zeka dünyasındaki en büyük sıçrama gerçekleşti! GPT-3 nedir? | Barış Özcan](https://www.youtube.com/watch?v=r2dQgdktUJg) <!> [GPT-3 Websitesi](https://arxiv.org/pdf/2005.14165.pdf)
+
+### [Boston Dynamics | Dans eden bu robotlar GERÇEK Mİ? | Barış Özcan](https://www.youtube.com/watch?v=lyRVU3rzoTU) <|> [Başka bir videosu | Boston Dynamics](https://www.youtube.com/watch?v=tF4DML7FIWk)
+
+### [Ne dersen çizen yapay zeka çıktı! DALL-E | Barış Özcan](https://www.youtube.com/watch?v=Cq33iTwbkic) <|> [DALL-E Websitesi](https://openai.com/blog/dall-e/)
+
+### [OpenAI Codes Live Demo | Doğal dili koda dönüştüren model](https://www.youtube.com/watch?v=SGUCcjHTmGY) <|> [OpenAI Codex Websitesi](https://openai.com/blog/openai-codex/)
+
+### [Daha da detaylı okuma ve araştırma için: Yapay Zeka Wikipedia Sayfası](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
+### [Tarihi Karşılaşma: YAPAY ZEKA vs. YAPAY ZEKA | Bebar Bilim](https://www.youtube.com/watch?v=dhnZ8qxmP00)
+
+#### Müfredat sürümü: v1.0
+> Müfredata koyulmasını önerdiğiniz bir içerik varsa, açıklaması olmayan ve sizin eklemek istediğiniz bir içerik varsa veya bulunmaması gerektiğini düşündüğünüz bir içerik varsa *contact.egeuniai@gmail.com* adresine *Müfredat* konusuyla mail atabilirsiniz. Keyifli okumalar, iyi çalışmalar. **- Eğitim Birimi**
