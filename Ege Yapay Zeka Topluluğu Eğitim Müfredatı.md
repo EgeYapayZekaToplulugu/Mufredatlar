@@ -72,7 +72,7 @@ Teorik çalışmamıza başlayabilmemiz için temel kavramların ne anlama geldi
 ## Yapay Zeka'nın Tarihine Giriş
 Her konuda olduğu gibi öğrenmeye başlarken tarihi hakkında bilgi sahibi olmak da gelişim sürecini daha parlak kılacak, günümüzdeki karmaşık teknolojilerin, kara kutuların ışıklandırılmasında yardımcı olacaktır. Aynı zamanda geçmişten günümüze değişimler bu çalışma sürecimizde motivasyonumuzu artıracak ve bize yeni bilgiler katacaktır. Bu yüzden başlangıç tarihi, Yapay Zeka fikri kimden çıktı tarzından bilgileri de paylaşmayı istedik.
 
-![Alan Turing](/Resources/Alan_Turing.jpg =300x408)
+<img src="/Resources/Alan_Turing.jpg" alt="Alan Turing" width="300" height="408">
 
 ### [Computing Machinery and Intelligence
 
